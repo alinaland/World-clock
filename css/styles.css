@@ -1,21 +1,6 @@
 body {
   background: linear-gradient(128deg, #f5efe6, #b4cde6);
   background-size: 400% 400%;
-
-  -webkit-animation: AnimationName 17s ease infinite;
-  animation: AnimationName 17s ease infinite;
-}
-
-@-webkit-keyframes AnimationName {
-  0% {
-    background-position: 0% 20%;
-  }
-  50% {
-    background-position: 100% 81%;
-  }
-  100% {
-    background-position: 0% 20%;
-  }
 }
 
 select {
