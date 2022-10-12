@@ -65,6 +65,9 @@ h2 {
   font-size: 28px;
   vertical-align: middle;
 }
+#cities {
+  font-family: "Poppins", sans-serif;
+}
 footer {
   text-align: center;
   font-family: "Poppins", sans-serif;
